@@ -1,0 +1,11 @@
+NXP Software Content Register
+
+Package:                   ap-frdm-mcxw71-light-switch-combo-app
+
+Version:                   1.0
+Outgoing License:          Apache-2.0
+License File:              LICENSE.txt
+Type of content:           Source code
+Description and comments:  This application is to demostrate Matter light-switch-combo implementation based on MCXW71 board.
+Release Location:          https://github.com/nxp-appcodehub/ap-frdm-mcxw71-light-switch-combo-app
+Origin:                    NXP-Matter 1.4.0.0 (Apache-2.0) - https://github.com/NXP/matter/tree/v1.4.0.0
